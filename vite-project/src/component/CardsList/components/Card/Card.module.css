@@ -1,0 +1,26 @@
+
+.price{
+    background: rgb(101, 170, 239);
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    padding-right: 10px;
+}
+.item{
+    width: 100%;
+    box-shadow: 10px 5px 5px rgb(182, 173, 173); 
+}
+.buttonBuy{
+    background: orange;
+    width: 100%;
+    margin-top: 10px;
+    border: none;
+    padding: 10px;
+    color: aliceblue;
+    text-transform: uppercase;
+}
+
+.borderBottom{
+    border-top: 3px solid rgb(101, 170, 239);
+}

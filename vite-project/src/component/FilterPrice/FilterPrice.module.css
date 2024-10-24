@@ -1,0 +1,6 @@
+.mainInput{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    margin-top: 40px;
+}

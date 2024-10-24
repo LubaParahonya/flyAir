@@ -1,0 +1,14 @@
+.mainInput{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    margin-top: 40px;
+}
+
+.textFilter{
+    font-weight: 600;
+}
+
+.box{
+    margin-top: 40px;
+}
